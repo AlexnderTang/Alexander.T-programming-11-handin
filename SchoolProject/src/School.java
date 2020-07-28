@@ -8,7 +8,7 @@ public class School {
     private ArrayList<Student> studentlist = new ArrayList<>();
     private ArrayList<String> coursesList = new ArrayList<>();
 
-    //The fields: classroom, schoolName, washroom, adn courses are instance variables of the Student class
+    //The fields: classroom, schoolName, washroom, adn courses are instance variables of the School class
     private double classroom;
     private String schoolName;
     private double washroom;
