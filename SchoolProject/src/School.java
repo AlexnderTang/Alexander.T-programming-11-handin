@@ -14,7 +14,7 @@ public class School {
     private double washroom;
     private String courses;
 
-    //The constructor instantiates the object, Teacher. It also takes in parameters so the fields can also be initialized when the object is being created.
+    //The constructor instantiates the object, School. It also takes in parameters so the fields can also be initialized when the object is being created.
     public School(double classroom, String schoolName, double washroom){
         this.classroom = classroom;
         this.schoolName = schoolName;
