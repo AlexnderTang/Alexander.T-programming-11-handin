@@ -1,8 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        //Adding 10 Students to studentList
+        
+        //Creating new instance of School 
         School school = new School(12, "Prince of Wales", 5);
+        
+        //Adding 10 Students to studentList
         school.addstudent(new Student("Dillon", "Liu", 11));
         school.addstudent(new Student("Jason", "Wang", 9));
         school.addstudent(new Student("Victor","Yao",11));

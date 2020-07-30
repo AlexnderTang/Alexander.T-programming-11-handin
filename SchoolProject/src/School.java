@@ -8,13 +8,13 @@ public class School {
     private ArrayList<Student> studentlist = new ArrayList<>();
     private ArrayList<String> coursesList = new ArrayList<>();
 
-    //The fields: classroom, schoolName, washroom, adn courses are instance variables of the Student class
+    //The fields: classroom, schoolName, washroom, adn courses are instance variables of the School class
     private double classroom;
     private String schoolName;
     private double washroom;
     private String courses;
 
-    //The constructor instantiates the object, Teacher. It also takes in parameters so the fields can also be initialized when the object is being created.
+    //The constructor instantiates the object, School. It also takes in parameters so the fields can also be initialized when the object is being created.
     public School(double classroom, String schoolName, double washroom){
         this.classroom = classroom;
         this.schoolName = schoolName;
