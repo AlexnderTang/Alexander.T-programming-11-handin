@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dataabstraction assignment.iml" filepath="$PROJECT_DIR$/dataabstraction assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataAbstractionAssignment.iml" filepath="$PROJECT_DIR$/DataAbstractionAssignment.iml" />
     </modules>
   </component>
 </project>
